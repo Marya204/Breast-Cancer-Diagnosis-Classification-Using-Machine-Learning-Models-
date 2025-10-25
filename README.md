@@ -1,5 +1,4 @@
 # Breast-Cancer-Diagnosis-Classification-Using-Machine-Learning-Models-
-Breast Cancer Diagnosis Classification Using ML Models
 A comprehensive machine learning project for classifying breast cancer tumors as benign or malignant using the Wisconsin Diagnostic Breast Cancer Dataset. This project implements and compares multiple classification algorithms to identify the most effective model for cancer diagnosis prediction.
 ## Project Overview
 This project performs end-to-end machine learning analysis including data exploration, preprocessing, model training, hyperparameter optimization, and model evaluation to predict breast cancer diagnosis with high accuracy.
